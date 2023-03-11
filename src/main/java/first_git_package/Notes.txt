@@ -1,0 +1,8 @@
+1.create a project
+2.create a github repository
+  *go to github
+  *repositories>create new repository>first_git_project
+
+3.create a new commit for the first time
+  *git init
+  *
