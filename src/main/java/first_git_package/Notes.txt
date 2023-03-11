@@ -28,3 +28,11 @@ NOTE: git status --> it can be used any time to see the progress. used to unders
     *git add "path"
     *git commit -m "adding fourth class"
     *git push
+6.git pull
+  *used to get code from github
+  *git pull=git fetch + git merge
+  *if git pull gives error use git fetch+git merge
+  *now that we have our local updated, then commit and push
+  *git add.
+  *git commit -m "committing my codes"
+  *git push
