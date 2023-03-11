@@ -22,3 +22,9 @@ NOTE: git status --> it can be used any time to see the progress. used to unders
      *git add.
      *git commit -m "added my second java class"
      *git push
+5.Adding specific classes or files
+  *create 2 classes: MyThirdClass, MyFourthClass
+  *create a commit with only MyFourthClass
+    *git add "path"
+    *git commit -m "adding fourth class"
+    *git push
